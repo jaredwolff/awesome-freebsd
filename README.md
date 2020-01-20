@@ -13,6 +13,7 @@ Is where you can check out the raw source for FreeBSD
 Where you can go to learn stuff FreeBSD
 
 * [The Handbook](https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/)
+* [FreeBSD on Raspberry Pi](https://wiki.freebsd.org/action/show/arm/Raspberry%20Pi?action=show&redirect=FreeBSD%2Farm%2FRaspberry+Pi)
 
 ## Distros
 Operating systems based off of FreeBSD.
