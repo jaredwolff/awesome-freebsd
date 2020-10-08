@@ -33,6 +33,10 @@ These utilities are used to create, modify and destroy FreeBSD jails
 * [Bastille](https://github.com/BastilleBSD/bastille)
 * [iocage](https://github.com/iocage/iocage)
 * [CBSD](https://www.bsdstore.ru/en/docs.html)
+* [bsdploy](https://bsdploy.readthedocs.io/en/latest/)
+* [focker](https://github.com/sadaszewski/focker/)
+* [vm-bhyve](https://github.com/churchers/vm-bhyve)
+* [pot](https://github.com/pizzamig/pot/)
 
 ## Local Testing
 Helpful resources for local development using tools like Vagrant, etc.
