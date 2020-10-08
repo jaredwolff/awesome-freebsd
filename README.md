@@ -1,5 +1,7 @@
 # Awesome FreeBSD
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 Some great resources for FreeBSD users new and old.
 
 This repo is inspired by many of the other *awesome-** repositories across Github.
